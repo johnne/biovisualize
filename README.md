@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="images/clustermap.example.png" width="400",height="400"/>
+   <img src="images/barplot.example.png" width="400",height="400"/>
+</p>
 # biovisualize
 Interactive toolkit to produce high-quality graphs of results from sequencing projects
 
