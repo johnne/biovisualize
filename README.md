@@ -20,3 +20,6 @@ Python 3.5
 Activate the environment with:
 
 `source activate bio` or `source activate bio35` depending on your choice.
+
+## Setting up Plotly
+To use the plotly notebooks you need to create a (free) account at [plot.ly](https://plot.ly/). Then see the ["Getting Started with Plotly for Python"](https://plot.ly/python/getting-started/) instructions on how to set up plotly on your computer.
